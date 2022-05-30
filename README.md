@@ -14,4 +14,5 @@
 5.修改本地JS库为jsDelivr  
 6.增加视频文件调用本地播放器  
 # 使用方法  
-下载`renexmoe-mod.html`到`theme`文件夹  
+下载`renexmoe-mod-fixversion.html`到`theme`文件夹  
+PS:renexmoe原版与renexmoeMod都不再更新，推荐使用https://github.com/TW527E/renexmoe-tw527e-edition
