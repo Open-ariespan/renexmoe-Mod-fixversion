@@ -16,3 +16,4 @@
 # 使用方法  
 下载`renexmoe-mod-fixversion.html`到`theme`文件夹  
 PS:renexmoe原版与renexmoeMod都不再更新，推荐使用https://github.com/TW527E/renexmoe-tw527e-edition
+# renexmoe是GPLV3下的开源软件，Renexmoe-mod与所有renexmoe衍生版本都在GPLV3许可证下开源
