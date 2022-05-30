@@ -1,6 +1,9 @@
 # renexmoe-Mod-fix
 ## 1.将cdn全部替换为fastly jsd cdn，以修复所有引用了jsd cdn资源在中国大陆无法联通显示的致命问题
 ## 2.修复管理员登录
+
+## renexmoe-mod readme.md
+
 项目地址：[renexmoe-mod](https://github.com/jssycszyj/renexmoe-cdn)  
 ~~DEMO：DEMO~~  
 修改来自：[@186526](https://github.com/186526/onemanager-theme-renexmoe)  
